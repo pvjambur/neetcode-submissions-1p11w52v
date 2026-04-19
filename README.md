@@ -1,7 +1,7 @@
 # NeetCode Solutions — @pvjambur
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-1p11w52v`
-
+everyday submissions
 ---
 
 ## What is this?
